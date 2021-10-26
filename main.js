@@ -1,8 +1,8 @@
-import {chessScene,expModel, id, scene} from './chess.js';
-import {curtainsmain, curtains} from './curtainsmain.js';
-import {projekte, curtainsProj} from './projekte.js'
-import {render as menu} from './menu.js'
-import {curtainsAg, curtainsgenturfunc} from './curtainsagentur.js'
+import {chessScene,expModel, id, scene} from 'https://cdn.statically.io/gh/chris-ain/HC-WEBSITE/main/chess.js';
+import {curtainsmain, curtains} from 'https://cdn.statically.io/gh/chris-ain/HC-WEBSITE/main/curtainsmain.js';
+import {projekte, curtainsProj} from 'https://cdn.statically.io/gh/chris-ain/HC-WEBSITE/main/curtainsprojekte.js'
+import {render as menu} from 'https://cdn.statically.io/gh/chris-ain/HC-WEBSITE/main/menu.js'
+import {curtainsAg, curtainsgenturfunc} from 'https://cdn.statically.io/gh/chris-ain/HC-WEBSITE/main/curtainsagentur.js'
 
 //INTRO//
 gsap.registerPlugin(ScrollTrigger);
